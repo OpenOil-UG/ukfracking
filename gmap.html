@@ -5,7 +5,6 @@
     <title>Simple Map</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
     <style>
       html, body {
         height: 100%;
@@ -34,10 +33,57 @@ var georssLayer = new google.maps.KmlLayer({
   });
   georssLayer.setMap(map);
 
+var input = document.getElementById('searchTextField');
+//var autocomplete = new google.maps.places.Autocomplete(input);
+var searchBox = new google.maps.places.SearchBox(input);
+map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+
+    searchBox.setBounds(map.getBounds()); // only on 1st load, so we get the whole UK
+    var markers = [];
+searchBox.addListener('places_changed', function() {
+    var places = searchBox.getPlaces();
+    if (places.length == 0) {
+      return;
+    }
+
+    // Clear out the old markers.
+    markers.forEach(function(marker) {
+      marker.setMap(null);
+    });
+    markers = [];
+
+ // For each place, get the icon, name and location.
+    var bounds = new google.maps.LatLngBounds();
+    places.forEach(function(place) {
+      var icon = {
+        url: place.icon,
+        size: new google.maps.Size(71, 71),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(17, 34),
+        scaledSize: new google.maps.Size(25, 25)
+      };
+
+      // Create a marker for each place.
+      markers.push(new google.maps.Marker({
+        map: map,
+        icon: icon,
+        title: place.name,
+        position: place.geometry.location
+      }));
+
+      if (place.geometry.viewport) {
+        // Only geocodes have viewport.
+        bounds.union(place.geometry.viewport);
+      } else {
+        bounds.extend(place.geometry.location);
+      }
+    });
+    map.fitBounds(bounds);
+});
 }
 
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUIjyQbL4Dn2XhV1-IwX5Ksjy49GxNLZk&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUIjyQbL4Dn2XhV1-IwX5Ksjy49GxNLZk&callback=initMap&libraries=places"
          ></script>
   </body>
 </html>
