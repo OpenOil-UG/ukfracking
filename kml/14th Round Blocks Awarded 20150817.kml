@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>14th Round Blocks Awarded 20150817</name>
+		<Placemark>
+			<name>SK43</name>
+			<description><![CDATA[SK43    <br>       <br>   BLOCKREF   SK43    <br>   OPORG   WARWICK    <br>   PARTNERS   WARWICK ENERGY EXPLORATION LIMITED,  ANGLIA NATURAL GAS SARL    <br>   Contact   Dr Rob Jones    <br>   Address   Wellesbourne House, Wellesbourne, Warwickshire, CV35 9JB         <br>   Email   rob.jones@warwickenergy.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.406035,52.95589,0.0 -1.407263,52.866002,0.0 -1.2587300000000001,52.865168000000004,0.0 -1.257195,52.95505300000001,0.0 -1.406035,52.95589,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SD62</name>
+			<description><![CDATA[SD62    <br>       <br>   BLOCKREF   SD62    <br>   OPORG   AURORA    <br>   PARTNERS   AURORA ENERGY RESOURCES LIMITED    <br>   Contact   Mr Ian Roche    <br>   Address   The Office, Westfield Estate, Milltimber, Aberdeenshire, AB13 0EX      <br>   Email   ian.roche@aurora-energy-resources.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.608275,53.764804,0.0 -2.606979,53.674928,0.0 -2.45561,53.67560000000001,0.0 -2.456583,53.765478,0.0 -2.608275,53.764804,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK72a</name>
+			<description><![CDATA[SK72a    <br>       <br>   BLOCKREF   SK72a    <br>   OPORG   HUTTON    <br>   PARTNERS   HUTTON ENERGY PLC,  CORONATION (OIL AND GAS) LIMITED    <br>   Contact   Mr Grant Glanfield    <br>   Address   26 Dover Street, Mayfair, London, W1S 4LY      <br>   Email   grant.glanfield@huttonenergy.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.9616909999999999,52.862943,0.0 -0.96383,52.77306299999999,0.0 -0.8156319999999999,52.771676,0.0 -0.8131870000000001,52.86155200000001,0.0 -0.9616909999999999,52.862943,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.903646,52.808482000000005,0.0 -0.9031939999999999,52.826458,0.0 -0.9328709999999999,52.826728,0.0 -0.9333109999999999,52.808752,0.0 -0.903646,52.808482000000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TF18b</name>
+			<description><![CDATA[TF18b    <br>       <br>   BLOCKREF   TF18b    <br>   OPORG   IGAS    <br>   PARTNERS   ISLAND GAS LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ      <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.3499840000000001,53.323502,0.0 -0.350677,53.305532,0.0 -0.275678,53.304472,0.0 -0.2749539999999999,53.32244099999999,0.0 -0.3499840000000001,53.323502,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK88b</name>
+			<description><![CDATA[SK88b    <br>       <br>   BLOCKREF   SK88b    <br>   OPORG   IGAS    <br>   PARTNERS   TOTAL E&P UK LIMITED,  ISLAND GAS LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ    <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.732513,53.400093,0.0 -0.738297,53.393232,0.0 -0.7449750000000002,53.390615000000004,0.0 -0.752152,53.387409,0.0 -0.753248,53.387969,0.0 -0.766327,53.387035,0.0 -0.7685709999999999,53.387435999999994,0.0 -0.769893,53.387449,0.0 -0.7985260000000001,53.39052800000001,0.0 -0.7992489999999999,53.364826,0.0 -0.754178,53.364364,0.0 -0.7557480000000001,53.310445,0.0 -0.6732239999999999,53.30955600000001,0.0 -0.671927,53.351342,0.0 -0.667391,53.35228,0.0 -0.6637610000000002,53.35304800000001,0.0 -0.658476,53.353888,0.0 -0.6538,53.354465,0.0 -0.649271,53.35513300000001,0.0 -0.647935,53.397367,0.0 -0.648674,53.399174,0.0 -0.732513,53.400093,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK87b</name>
+			<description><![CDATA[SK87b    <br>       <br>   BLOCKREF   SK87b    <br>   OPORG   BLACKLAND PARK    <br>   PARTNERS   BLACKLAND PARK EXPLORATION LIMITED    <br>   Contact   Mr Stephen Bushell    <br>   Address   Greenacre, Shoreditch, Taunton, Somerset, TA3 7BL      <br>   Email   steve_bushell@btconnect.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.7123560000000001,53.256048,0.0 -0.713434,53.220102,0.0 -0.683489,53.219775,0.0 -0.683351,53.224267999999995,0.0 -0.66089,53.224017999999994,0.0 -0.6610299999999999,53.219525,0.0 -0.6535439999999999,53.21944,0.0 -0.652557,53.250893,0.0 -0.675032,53.251144,0.0 -0.674893,53.255638,0.0 -0.7123560000000001,53.256048,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK45</name>
+			<description><![CDATA[SK45    <br>       <br>   BLOCKREF   SK45    <br>   OPORG   INEOS    <br>   PARTNERS   INEOS UPSTREAM LIMITED    <br>   Contact   Mr Thomas Pickering    <br>   Address   PO Box 21, Bo'ness Road, Grangemouth Stirlingshire, FK3 9XH      <br>   Email   tom.pickering@ineos.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.4035600000000001,53.135662,0.0 -1.4048010000000002,53.045777,0.0 -1.255651,53.044937,0.0 -1.254099,53.13482,0.0 -1.4035600000000001,53.135662,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK58a</name>
+			<description><![CDATA[SK58a    <br>       <br>   BLOCKREF   SK58a    <br>   OPORG   INEOS    <br>   PARTNERS   INEOS UPSTREAM LIMITED    <br>   Contact   Mr Thomas Pickering    <br>   Address   PO Box 21, Bo'ness Road, Grangemouth Stirlingshire, FK3 9XH    <br>   Email   tom.pickering@ineos.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.2498669999999998,53.377496,0.0 -1.25097,53.314581,0.0 -1.115898,53.313657000000006,0.0 -1.114968,53.358595,0.0 -1.1900859999999998,53.359128,0.0 -1.189745,53.377103,0.0 -1.2498669999999998,53.377496,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK96</name>
+			<description><![CDATA[SK96    <br>       <br>   BLOCKREF   SK96    <br>   OPORG   ADM    <br>   PARTNERS   MILROY CAPITAL LIMITED,  ABERDEEN HYDROCARBON DEVELOPMENT LIMITED    <br>   Contact   Mr Mark Campbell    <br>   Address   Johnston House, 52-54 Rose Street, Aberdeen, AB10 1HA    <br>   Email   mcampbell@aberdeenhydrocarbondevelopment.co.uk]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.6535439999999999,53.21944,0.0 -0.6563550000000001,53.12957600000001,0.0 -0.506952,53.127797,0.0 -0.5038290000000001,53.21765500000001,0.0 -0.6535439999999999,53.21944,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK48</name>
+			<description><![CDATA[SK48    <br>       <br>   BLOCKREF   SK48    <br>   OPORG   INEOS    <br>   PARTNERS   INEOS UPSTREAM LIMITED    <br>   Contact   Mr Thomas Pickering    <br>   Address   PO Box 21, Bo'ness Road, Grangemouth Stirlingshire, FK3 9XH    <br>   Email   tom.pickering@ineos.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.399797,53.40531,0.0 -1.401058,53.315428999999995,0.0 -1.25097,53.314581,0.0 -1.249393,53.40446,0.0 -1.399797,53.40531,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TF06</name>
+			<description><![CDATA[TF06    <br>       <br>   BLOCKREF   TF06    <br>   OPORG   CIRQUE    <br>   PARTNERS   SWIFT EXPLORATION LIMITED,  STELINMATVIC INDUSTRIES LIMITED,  CIRQUE ENERGY (UK) LIMITED    <br>   Contact   Mr Stephen Bushell    <br>   Address   Greenacre, Shoreditch, Taunton, Somerset, TA3 7BL    <br>   Email   steve_bushell@btconnect.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.5038290000000001,53.21765500000001,0.0 -0.506952,53.127797,0.0 -0.357566,53.12583,0.0 -0.354131,53.215682,0.0 -0.5038290000000001,53.21765500000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK53</name>
+			<description><![CDATA[SK53    <br>       <br>   BLOCKREF   SK53    <br>   OPORG   EGDON    <br>   PARTNERS   HUTTON ENERGY PLC,  CORONATION (OIL AND GAS) LIMITED, PETRICHOR ENERGY UK LIMITED,  CELTIQUE ENERGIE PETROLEUM LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Mark Abbott    <br>   Address   The Wheat House, 98 High Street, Odiham Hampshire, RG29 1LP    <br>   Email   mark.abbott@egdon-resources.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.257195,52.95505300000001,0.0 -1.2587300000000001,52.865168000000004,0.0 -1.110206,52.864148,0.0 -1.108362,52.954029999999996,0.0 -1.257195,52.95505300000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK89e</name>
+			<description><![CDATA[SK89e    <br>       <br>   BLOCKREF   SK89e    <br>   OPORG   IGAS    <br>   PARTNERS   TOTAL E&P UK LIMITED,  ISLAND GAS LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ    <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.755113,53.425051,0.0 -0.728007,53.405438000000004,0.0 -0.732513,53.400093,0.0 -0.648674,53.399174,0.0 -0.649724,53.40163900000001,0.0 -0.6501190000000001,53.403415,0.0 -0.650059,53.406291,0.0 -0.6570520000000001,53.40633400000001,0.0 -0.670102,53.406102,0.0 -0.6736960000000001,53.40660900000001,0.0 -0.6756370000000002,53.407098,0.0 -0.684956,53.40833400000001,0.0 -0.687445,53.408595,0.0 -0.6927850000000001,53.4086,0.0 -0.6943919999999999,53.408697999999994,0.0 -0.695366,53.408817,0.0 -0.6963330000000001,53.409169,0.0 -0.7002029999999999,53.409544,0.0 -0.701119,53.423936000000005,0.0 -0.6768359999999999,53.43535599999999,0.0 -0.6851259999999999,53.434998,0.0 -0.6919390000000001,53.433724,0.0 -0.6951890000000001,53.435738,0.0 -0.6963909999999999,53.435840999999996,0.0 -0.7028910000000002,53.434922,0.0 -0.702774,53.433843,0.0 -0.7038350000000001,53.43358400000001,0.0 -0.7043740000000001,53.435658000000004,0.0 -0.706035,53.435496,0.0 -0.711146,53.435731000000004,0.0 -0.712665,53.435298,0.0 -0.714927,53.435142,0.0 -0.7171949999999999,53.434807000000006,0.0 -0.719302,53.434830000000005,0.0 -0.7220220000000002,53.434498999999995,0.0 -0.7256519999999999,53.43390899999999,0.0 -0.730486,53.43333100000001,0.0 -0.733501,53.433183,0.0 -0.7364189999999999,53.431236999999996,0.0 -0.7377970000000001,53.430442,0.0 -0.7425199999999998,53.428514,0.0 -0.745867,53.427291,0.0 -0.750729,53.425724,0.0 -0.754807,53.42522699999999,0.0 -0.755113,53.425051,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK87c</name>
+			<description><![CDATA[SK87c    <br>       <br>   BLOCKREF   SK87c    <br>   OPORG   IGAS      <br>   PARTNERS   TOTAL E&P UK LIMITED,  ISLAND GAS LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ    <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.774564,53.31064000000001,0.0 -0.7776819999999999,53.29395099999999,0.0 -0.8012229999999999,53.294487,0.0 -0.801593,53.28125,0.0 -0.674143,53.279901,0.0 -0.673781,53.291583,0.0 -0.651285,53.291331,0.0 -0.650718,53.309303,0.0 -0.774564,53.31064000000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TF07f</name>
+			<description><![CDATA[TF07f    <br>       <br>   BLOCKREF   TF07f    <br>   OPORG   CIRQUE    <br>   PARTNERS   SWIFT EXPLORATION LIMITED,  STELINMATVIC INDUSTRIES LIMITED,  CIRQUE ENERGY (UK) LIMITED    <br>   Contact   Mr Stephen Bushell    <br>   Address   Greenacre, Shoreditch, Taunton, Somerset, TA3 7BL    <br>   Email   steve_bushell@btconnect.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.470685,53.307131000000005,0.0 -0.471167,53.293653,0.0 -0.434425,53.293176,0.0 -0.4339319999999999,53.30665400000001,0.0 -0.470685,53.307131000000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK49</name>
+			<description><![CDATA[SK49    <br>       <br>   BLOCKREF   SK49    <br>   OPORG   IGAS    <br>   PARTNERS   TOTAL E&P UK LIMITED,  ISLAND GAS LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ    <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.3985290000000001,53.49519000000001,0.0 -1.399797,53.40531,0.0 -1.249393,53.40446,0.0 -1.2478070000000003,53.494337,0.0 -1.3985290000000001,53.49519000000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SE40f</name>
+			<description><![CDATA[SE40f    <br>       <br>   BLOCKREF   SE40f    <br>   OPORG   CUADRILLA    <br>   PARTNERS   CUADRILLA RESOURCES LIMITED    <br>   Contact   Mr Andrew Quarles    <br>   Address   Cuadrilla House, Stowe Court, Lichfield, Staffordshire, WS13 6AQ   Cuadrilla House, Stowe Court, Lichfield, Staffordshire, WS13 6AQ      <br>   Email   andrew.quarles@cuadrillaresources.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.397254,53.585068,0.0 -1.3985290000000001,53.49519000000001,0.0 -1.326935,53.494808,0.0 -1.3267929999999997,53.503796,0.0 -1.311717,53.50370999999999,0.0 -1.3118629999999998,53.49472300000001,0.0 -1.2478070000000003,53.494337,0.0 -1.246213,53.584212,0.0 -1.2915240000000001,53.584489,0.0 -1.2916750000000001,53.575502,0.0 -1.306775,53.57559,0.0 -1.3066280000000001,53.58457800000001,0.0 -1.397254,53.585068,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.374863,53.566977,0.0 -1.3747300000000002,53.575964000000006,0.0 -1.389831,53.576042,0.0 -1.389961,53.567054,0.0 -1.374863,53.566977,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.363842,53.54669400000001,0.0 -1.363708,53.555682,0.0 -1.378802,53.555762,0.0 -1.378933,53.54677399999999,0.0 -1.363842,53.54669400000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.2923120000000001,53.537304,0.0 -1.2921619999999998,53.546292,0.0 -1.307253,53.54638,0.0 -1.3073989999999998,53.537392,0.0 -1.2923120000000001,53.537304,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SE41e</name>
+			<description><![CDATA[SE41e    <br>       <br>   BLOCKREF   SE41e    <br>   OPORG   IGAS    <br>   PARTNERS   TOTAL E&P UK LIMITED,  ISLAND GAS LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ    <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.3959730000000001,53.674945,0.0 -1.3963000000000003,53.652027,0.0 -1.3881310000000002,53.651985,0.0 -1.3882609999999997,53.642998,0.0 -1.396428,53.643039,0.0 -1.397254,53.585068,0.0 -1.246213,53.584212,0.0 -1.2446099999999998,53.674087,0.0 -1.371754,53.67482100000001,0.0 -1.371787,53.672574000000004,0.0 -1.3869230000000001,53.672652,0.0 -1.386891,53.674899,0.0 -1.3959730000000001,53.674945,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.3369219999999997,53.656477,0.0 -1.336781,53.66546400000001,0.0 -1.351915,53.665547,0.0 -1.352052,53.65655999999999,0.0 -1.3369219999999997,53.656477,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.321545,53.596348,0.0 -1.321401,53.605336,0.0 -1.3365130000000003,53.60542,0.0 -1.336654,53.596433,0.0 -1.321545,53.596348,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK99a</name>
+			<description><![CDATA[SK99a    <br>       <br>   BLOCKREF   SK99a    <br>   OPORG   IGAS    <br>   PARTNERS   ISLAND GAS LIMITED    <br>   Contact   Mr Tom Wilson    <br>   Address   7 Down Street, Mayfair, London, W1 7AJ    <br>   Email   tom.wilson@igasplc.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.646451,53.444095000000004,0.0 -0.646586,53.439871,0.0 -0.6420510000000001,53.44044900000001,0.0 -0.637357,53.44129399999999,0.0 -0.6374080000000001,53.439677,0.0 -0.6349949999999999,53.439829,0.0 -0.6295759999999999,53.430418,0.0 -0.621739,53.421429,0.0 -0.596831,53.414666000000004,0.0 -0.585573,53.39844299999999,0.0 -0.49753300000000017,53.397367,0.0 -0.49594800000000006,53.442295,0.0 -0.646451,53.444095000000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK52a</name>
+			<description><![CDATA[SK52a    <br>       <br>   BLOCKREF   SK52a    <br>   OPORG   EGDON    <br>   PARTNERS   HUTTON ENERGY PLC,  CORONATION (OIL AND GAS) LIMITED, PETRICHOR ENERGY UK LIMITED,  CELTIQUE ENERGIE PETROLEUM LIMITED,  EGDON RESOURCES UK LIMITED    <br>   Contact   Mr Mark Abbott    <br>   Address   The Wheat House, 98 High Street, Odiham Hampshire, RG29 1LP    <br>   Email   mark.abbott@egdon-resources.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.2587300000000001,52.865168000000004,0.0 -1.260258,52.775281,0.0 -1.1120389999999998,52.774265,0.0 -1.110206,52.864148,0.0 -1.2587300000000001,52.865168000000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.118905,52.801285,0.0 -1.11836,52.82825,0.0 -1.1628799999999997,52.828572,0.0 -1.1633980000000002,52.801607,0.0 -1.118905,52.801285,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TF07e</name>
+			<description><![CDATA[TF07e    <br>       <br>   BLOCKREF   TF07e    <br>   OPORG   CIRQUE    <br>   PARTNERS   SWIFT EXPLORATION LIMITED,  STELINMATVIC INDUSTRIES LIMITED,  CIRQUE ENERGY (UK) LIMITED    <br>   Contact   Mr Stephen Bushell    <br>   Address   Greenacre, Shoreditch, Taunton, Somerset, TA3 7BL    <br>   Email   steve_bushell@btconnect.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.47356799999999993,53.226260999999994,0.0 -0.47388799999999986,53.21727500000001,0.0 -0.38406900000000005,53.216091,0.0 -0.38373100000000004,53.225077000000006,0.0 -0.47356799999999993,53.226260999999994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TF36</name>
+			<description><![CDATA[TF36    <br>       <br>   BLOCKREF   TF36    <br>   OPORG   GDF    <br>   PARTNERS   GDF SUEZ E&P UK LIMITED    <br>   Contact   Mr Faheem Haider    <br>   Address   40 Holburn Viaduct, London, EC1N 2PB      <br>   Email   faheem.haider@gdfsuezep.co.uk]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.054791,53.211171,0.0 -0.05884999999999999,53.121334,0.0 0.090476,53.118805,0.0 0.09484699999999999,53.208634,0.0 -0.054791,53.211171,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SD61</name>
+			<description><![CDATA[SD61    <br>       <br>   BLOCKREF   SD61    <br>   OPORG   OSPREY    <br>   PARTNERS   OK ENERGY (ONSHORE) LIMITED,  ENERGY DEVELOPMENT AND INVESTMENTS UK LIMITED,  OSPREY PETROLEUM LIMITED    <br>   Contact   Mr Paul Barrett    <br>   Address   45 King William Street, London, EC4R 9AN         <br>   Email   paul.barrett@ok-energy.uk.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.606979,53.674928,0.0 -2.6056900000000005,53.58505100000001,0.0 -2.454642,53.58572,0.0 -2.45561,53.67560000000001,0.0 -2.606979,53.674928,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TF17</name>
+			<description><![CDATA[TF17    <br>       <br>   BLOCKREF   TF17    <br>   OPORG   CIRQUE    <br>   PARTNERS   SWIFT EXPLORATION LIMITED,  STELINMATVIC INDUSTRIES LIMITED,  CIRQUE ENERGY (UK) LIMITED    <br>   Contact   Mr Stephen Bushell    <br>   Address   Greenacre, Shoreditch, Taunton, Somerset, TA3 7BL    <br>   Email   steve_bushell@btconnect.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.350677,53.305532,0.0 -0.354131,53.215682,0.0 -0.204451,53.213519999999995,0.0 -0.20068400000000003,53.303364,0.0 -0.350677,53.305532,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SK86c</name>
+			<description><![CDATA[SK86c    <br>       <br>   BLOCKREF   SK86c    <br>   OPORG   ADM    <br>   PARTNERS   MILROY CAPITAL LIMITED,  ABERDEEN HYDROCARBON DEVELOPMENT LIMITED    <br>   Contact   Mr Mark Campbell    <br>   Address   Johnston House, 52-54 Rose Street, Aberdeen, AB10 1HA    <br>   Email   mcampbell@aberdeenhydrocarbondevelopment.co.uk]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.803274,53.221038,0.0 -0.805772,53.131168,0.0 -0.6563550000000001,53.12957600000001,0.0 -0.654248,53.196974999999995,0.0 -0.676695,53.197226,0.0 -0.6762800000000001,53.21070600000001,0.0 -0.683764,53.210789,0.0 -0.683489,53.219775,0.0 -0.803274,53.221038,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SE95</name>
+			<description><![CDATA[SE95    <br>       <br>   BLOCKREF   SE95    <br>   OPORG   CUADRILLA    <br>   PARTNERS   CUADRILLA RESOURCES LIMITED,  GDF SUEZ E&P UK LIMITED    <br>   Contact   Mr Andrew Quarles    <br>   Address   Cuadrilla House, Stowe Court, Lichfield, Staffordshire, WS13 6AQ    <br>   Email   andrew.quarles@cuadrillaresources.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.6275570000000001,54.028152,0.0 -0.6305069999999999,53.938301,0.0 -0.47823199999999993,53.936468999999995,0.0 -0.4749539999999999,54.026314,0.0 -0.6275570000000001,54.028152,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SE42e</name>
+			<description><![CDATA[SE42e    <br>       <br>   BLOCKREF   SE42e    <br>   OPORG   HUTTON    <br>   PARTNERS   HUTTON ENERGY PLC,  CORONATION (OIL AND GAS) LIMITED    <br>   Contact   Mr Grant Glanfield    <br>   Address   26 Dover Street, Mayfair, London, W1S 4LY      <br>   Email   grant.glanfield@huttonenergy.com]]></description>
+			<styleUrl>#poly-4186F0-3-155</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.394684,53.764821,0.0 -1.3959730000000001,53.674945,0.0 -1.386891,53.674899,0.0 -1.3867930000000002,53.68164000000001,0.0 -1.3716540000000002,53.681562,0.0 -1.371754,53.67482100000001,0.0 -1.2446099999999998,53.674087,0.0 -1.242998,53.76396,0.0 -1.394684,53.764821,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.354845,53.741244,0.0 -1.354707,53.750232,0.0 -1.3698710000000003,53.750312,0.0 -1.370005,53.74132500000001,0.0 -1.354845,53.741244,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.324762,53.726248,0.0 -1.324618,53.735235,0.0 -1.339776,53.73532,0.0 -1.339916,53.726332,0.0 -1.324762,53.726248,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.3086140000000002,53.694247,0.0 -1.3084670000000003,53.703235,0.0 -1.323614,53.703321,0.0 -1.323758,53.694334,0.0 -1.3086140000000002,53.694247,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-4186F0-3-155-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>9BF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-4186F0-3-155-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>9BF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-3-155'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-3-155-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-3-155-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
