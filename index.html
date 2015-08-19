@@ -2,36 +2,71 @@
 <!DOCTYPE html>
 <html>
   <head>
+	  <title>Fracking Licenses in the UK</title>
+
 
     <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <!-- Latest compiled JavaScript -->
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	  
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 500px;
+      }
+
+    #map-canvas {
+    width:100%;
+	    height:500px;
+    }
 
 
-<style type="text/css">
-  html, body { height: 100%; margin: 0; padding: 0; }
-  #map { height: 100%; }
-</style>
+    /************************************************
+*	4.	Navbar      								*
+************************************************/
 
+
+    
+    </style>
   </head>
-
   <body>
 
-<div class="container">
+	  <div class="container">
+		  <div class="row">
+			  <div class="col-md-7">
+				  <a href="https://openoil.net"><img src="https://openoil.net/wp/wp-content/uploads/2013/01/openoil-header.png" width="500px"/></a>
+			  </div>
+	    </div>
+
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-3">
           <h2>Fracking Licenses in the UK</h2>
 
 	  <p>Lorem ipsum</p>
+	  Layers to show:
+	  <div class="layerchooser">
+		  <input type="checkbox" class="layertoggle" data-layer="Blocks Tendered"/> Blocks Tendered <br />
+		  <input type="checkbox" class="layertoggle" data-layer="Blocks Awarded" checked="checked"/> Blocks Awarded <br />
+		  <input type="checkbox" class="layertoggle" data-layer="Blocks Under Consultation" checked="checked"/> Blocks Under Consultation <br />
+</div>
+	  
         </div>
-        <div class="col-md-10">
-           <iframe src="https://www.google.com/maps/d/embed?mid=zxYE3ET5Jkhk.kWDXV5AVqBsE&hl=en" width="600" height="450"></iframe> 
-	  	<div id="map"></div>
+        <div class="col-md-9">
+		    <input id="searchTextField" type="text" size="50">
+    <div id="map"></div>
+
         </div>
 
 
@@ -39,6 +74,106 @@
     </div>
 </div>
 
-    
-    </body>
-  </html>
+
+    <script>
+
+    var map;
+    var toggleLayer = function(layer){
+	    if(layer.map == null) {
+		    layer.setMap(map);
+		    }
+	    else {
+		    layer.setMap(null);
+		    }
+    };
+
+    $(document).ready(function(){
+	    $('.layertoggle').change(function(){
+		    console.log('clicked');
+		    console.log($(this).data('layer'));
+		    toggleLayer(window.layers[$(this).data('layer')]);
+		    });
+	    });
+
+function initLayers(){
+	layerurls = {
+		//'Full Data': 'http://maps.openoil.net/ukfracking/kml/uk14round.kml',
+		'Blocks Awarded': 'https://maps.openoil.net/ukfracking/kml/14th%20Round%20Blocks%20Awarded%2020150817.kml',
+				'Blocks Tendered': 'https://maps.openoil.net/ukfracking/kml/14th%20round%20tendered.kml',
+				'Blocks Under Consultation': 'https://maps.openoil.net/ukfracking/kml/14th%20round%20-%20UNDER%20CONSULTATION.kml',
+
+	}
+	window.layers = {}
+	for (var k in layerurls){
+		window.layers[k] = new google.maps.KmlLayer({
+    url: layerurls[k],
+  });
+		if(k != 'Blocks Tendered'){
+			window.layers[k].setMap(map)
+				}
+		}
+	}
+
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat: 53.55, lng: -2.4},
+    zoom: 6
+});
+	initLayers();
+
+
+
+var input = document.getElementById('searchTextField');
+//var autocomplete = new google.maps.places.Autocomplete(input);
+var searchBox = new google.maps.places.SearchBox(input);
+map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+
+    searchBox.setBounds(map.getBounds()); // only on 1st load, so we get the whole UK
+    var markers = [];
+searchBox.addListener('places_changed', function() {
+    var places = searchBox.getPlaces();
+    if (places.length == 0) {
+      return;
+    }
+
+    // Clear out the old markers.
+    markers.forEach(function(marker) {
+      marker.setMap(null);
+    });
+    markers = [];
+
+ // For each place, get the icon, name and location.
+    var bounds = new google.maps.LatLngBounds();
+    places.forEach(function(place) {
+      var icon = {
+        url: place.icon,
+        size: new google.maps.Size(71, 71),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(17, 34),
+        scaledSize: new google.maps.Size(25, 25)
+      };
+
+      // Create a marker for each place.
+      markers.push(new google.maps.Marker({
+        map: map,
+        icon: icon,
+        title: place.name,
+        position: place.geometry.location
+      }));
+
+      if (place.geometry.viewport) {
+        // Only geocodes have viewport.
+        bounds.union(place.geometry.viewport);
+      } else {
+        bounds.extend(place.geometry.location);
+      }
+    });
+    map.fitBounds(bounds);
+});
+}
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUIjyQbL4Dn2XhV1-IwX5Ksjy49GxNLZk&callback=initMap&libraries=places"
+         ></script>
+  </body>
+</html>
